@@ -11,9 +11,9 @@
 - Make sure to have Python installed on your machine
 
 - Install Selenium library: 
-  ```python 
-  pip install selenium
-  ``` 
+```python 
+pip install selenium
+``` 
 
 - Install pytest (testing framework): 
 ```python
